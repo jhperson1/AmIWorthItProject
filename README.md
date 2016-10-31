@@ -17,4 +17,7 @@ In this current AmIWorthIt.py version:
 	- ex. providing a matrix of answers for each question by each member in answers_YN_worth and answers_YN_resources
 	- ex. a resources_algorithm and potential inputs to the resources_algorithm is commented out for now but could be used to develop a more complex algorithm than the series of if statements included in this prototype
 
+- finally, there is an included FB message analyzer that allows users to analyze the sentiments of their own (or friends') messages. This is provided to help users understand the positivity or negativity of their words. This is an optional part of the applet that just providers users with more information that they might find useful.
+
 - DISCLAIMER: the logic of the code should be kosher but the code itself doesn't run quite yet ... more debugging and updated versions to come!
+
